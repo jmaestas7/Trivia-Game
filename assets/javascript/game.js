@@ -10,18 +10,6 @@ var allQuestions = [
   new QuizQuestion("Whom was responsilble for the attack on the Earth Kingdo during the Siege of Ba Sing Se?",[ "Prince Lu Ten", "The King", "King Tut", "The Ambassador"],0),
   new QuizQuestion("The Royal Procession is also known as:",["The Eliteist", "The Royal Guard", "Nagalads", "Imperial Firebenders"],1),
   new QuizQuestion("The Sun Warriors learned firebending from what creature?", ["Unicorns", "Nimphs","Flaming Gazelle","Dragons" ],3),
-  new QuizQuestion("Hitler party which came into power in 1933 is known as",["Labor Party", "Nazi Party", "Ku-Klux-Klan","Democratic Party"],1),
-  new QuizQuestion("The headquarter of International Atomic Energy Agency (IAEA) are situated at ",["Vienna", "Rome", "Geneva","Paris"],0),
-  new QuizQuestion("Where is the permanent secretariat of the SAARC?",["Kathmandu", "New Delhi", "Islamabad", "Colombo"],0),
-  new QuizQuestion("The Olympic Flame symbolises ",["unity among various nations of the world", "speed, perfection and strength", "sports as a means for securing harmony among nations", "continuity between the ancient and modern games"],3),
-  new QuizQuestion("The number of already named bones in the human skeleton is",["200", "206", "212", "218"],1),
-  /*
-  new QuizQuestion("What has a tail but no body?",["A human", "A coin", "A cloud"],1),
-  new QuizQuestion("What word in the English language is always spelled incorrectly?",["It's possible to spell anything right as long as you learn it", "Shakespeare", "Onomatopoeia", "Incorrectly"],2),
-  new QuizQuestion("When do you stop at green and go at red?",["Watermelon!", "Traffic light!", "Garden"],0),
-  new QuizQuestion("What rotates but still remains in the same place?",["Bottle (spin the bottle game)", "Clock", "Stairs"],1),
-  new QuizQuestion("How can you lift an elephant with one hand?",["Truck","Use both hands!", "Use a lever", "There is no such thing"],2)
-*/  
 ];
 
 var currentquestion = 0;
