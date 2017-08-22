@@ -1,0 +1,22 @@
+body {
+	background-image: url("../images/background.jpg");
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+#content {
+	position: relative;
+	padding: 30px;
+	background-color: #f4dc42;
+	margin: 0 auto;
+	width: 85%;
+	top: 45px;
+}
+#title {
+font-family: 'Sedgwick Ave Display', cursive;
+font-size: 100px;
+font-weight: bolder;
+color: white;
+text-align: center;
+}
